@@ -1,5 +1,7 @@
 SassPHP-Cli
 ===========
+This can be used with continuous integration and build processes like Jenkins.
+
 
 Usage:
 ------
